@@ -8,7 +8,7 @@ Contributors:
 
 Screenshots:
 
-<img src="https://user-images.githubusercontent.com/94001076/229580261-6e0b4cab-6fc0-4dc5-acf1-628145be6410.png" height="200">
+<img src="https://user-images.githubusercontent.com/94001076/229580261-6e0b4cab-6fc0-4dc5-acf1-628145be6410.png" height="300">
 
 A few resources to get you started if this is your first Flutter project:
 
