@@ -1,7 +1,6 @@
-import 'package:http/http.dart' as http;
+import 'package:Cricket_flutter_app/model/weather.dart';
 import 'dart:convert';
-
-import 'weather.dart';
+import 'package:http/http.dart' as http;
 
 class HttpHelper {
   //https://api.openweathermap.org/data/2.5/weather?lat=28.4595&lon=77.0266&appid=e77e558e80f3b53249ddb36c055b14f9

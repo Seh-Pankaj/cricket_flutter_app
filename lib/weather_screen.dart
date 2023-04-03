@@ -1,7 +1,6 @@
+import 'package:Cricket_flutter_app/model/http_helper.dart';
+import 'package:Cricket_flutter_app/model/weather.dart';
 import 'package:flutter/material.dart';
-
-import 'model/http_helper.dart';
-import 'model/weather.dart';
 
 class WeatherScreen extends StatefulWidget {
   const WeatherScreen({Key? key}) : super(key: key);
