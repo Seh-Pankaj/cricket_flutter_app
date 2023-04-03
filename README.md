@@ -1,10 +1,14 @@
 # cricket_flutter_app
 
-A new Flutter project.
+A BMI calculator and live cricket score Flutter app.
 
-## Getting Started
+Contributors: 
+  - Pankaj Sehrawat 20CSU076
+  - Rishikesh Sahoo 20csu088
 
-This project is a starting point for a Flutter application.
+Screenshots:
+
+![image](https://user-images.githubusercontent.com/94001076/229580261-6e0b4cab-6fc0-4dc5-acf1-628145be6410.png)
 
 A few resources to get you started if this is your first Flutter project:
 
